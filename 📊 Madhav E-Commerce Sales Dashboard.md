@@ -25,4 +25,3 @@ Enabled fast, visual-based decision-making for stakeholders by reducing manual r
 
 ---
 
-Feel free to add screenshots of the dashboard or link a `.pbix` file for demo access!
